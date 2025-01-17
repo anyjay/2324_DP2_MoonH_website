@@ -76,7 +76,7 @@ footer {
 }
 .parallax {
   /* The image used */
-  background-image: url("http://127.0.0.1:5500/Images/Index/landscape3edited.jpg");
+  background-image: url("Images/Index/landscape3edited.jpg");
 
   /* Set a specific height */
   min-height: 400px;
